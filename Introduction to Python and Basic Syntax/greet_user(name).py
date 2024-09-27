@@ -12,6 +12,7 @@
 # The input should be a non-empty string.
 # The name will not contain any special characters or numbers.###
 
+
 def greet_user(name):
     if isinstance(name, str) and name:
         return f"Hello, {name}!"
