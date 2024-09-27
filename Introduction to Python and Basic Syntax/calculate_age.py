@@ -10,6 +10,7 @@
 # The input birth_year will be a positive integer between 1900 and 2023.
 # The output should be a non-negative integer.
 
+
 def calculate_age(birth_year):
     current_year = 2023
     if isinstance(birth_year, int) and 1900 <= birth_year <= current_year:
