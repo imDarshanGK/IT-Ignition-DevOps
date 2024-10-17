@@ -1,14 +1,16 @@
-# Task
-# Objective
-# LAB 2 : Write a Python function calculate_age(birth_year) that takes the birth year as input and returns the current age based on the current year 2023.
-# Input:
-# The function takes an integer birth_year as input.
-# Output:
-# The function returns an integer representing the user's age.
+'''
+Task
+Objective
+LAB 2 : Write a Python function calculate_age(birth_year) that takes the birth year as input and returns the current age based on the current year 2023.
+Input:
+The function takes an integer birth_year as input.
+Output:
+The function returns an integer representing the user's age.
 
-# Constraint
-# The input birth_year will be a positive integer between 1900 and 2023.
-# The output should be a non-negative integer.
+Constraint
+The input birth_year will be a positive integer between 1900 and 2023.
+The output should be a non-negative integer.
+'''
 
 
 def calculate_age(birth_year):
