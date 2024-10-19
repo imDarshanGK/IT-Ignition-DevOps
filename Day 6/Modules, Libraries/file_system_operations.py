@@ -1,14 +1,16 @@
-# Task
-# Objective
-# LAB 3  :
-# Write a Python function file_system_operations() -> dict that performs the following operations using the os module and returns a dictionary with:
-# The current working directory.
-# A list of files in the current directory.
-# A confirmation message after creating a new directory called 'new_folder'.
+'''
+Task
+Objective
+LAB 3  :
+Write a Python function file_system_operations() -> dict that performs the following operations using the os module and returns a dictionary with:
+The current working directory.
+A list of files in the current directory.
+A confirmation message after creating a new directory called 'new_folder'.
 
-# Constraint
-# Use the os module for all file system operations.
-# The function should not accept any arguments.
+Constraint
+Use the os module for all file system operations.
+The function should not accept any arguments.
+'''
 
 
 import os
