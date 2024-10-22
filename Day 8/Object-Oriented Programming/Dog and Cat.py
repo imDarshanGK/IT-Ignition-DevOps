@@ -28,5 +28,6 @@ class Cat:
     def sound(self):
         print("Meow")
 
+# Function to make sound
 def make_sound(animal):
     animal.sound()
